@@ -1,0 +1,2 @@
+QUEEN 10
+KNIGHT 2
