@@ -5,4 +5,4 @@ This new NP-Complete problem we defined is optimzed by the Hill Climbing Artific
 1. First Choice Hill Climbing
 2. Stochastic Hill Climbing
 
-For further details check the Project.pdf file and the Presentation.pdf file.
+For further details check the Report.pdf file and the Presentation.pdf file.
